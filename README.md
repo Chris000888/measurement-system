@@ -1,9 +1,8 @@
 #Project: Measurement System
+This is an REST API program
 
-This program needs python 2.7, pygame 1.9 and opencv 2.4
+This program needs python 3.8, pygame and opencv
 
-MeasurementSystem/GUI.py This is the Graphical User Interface of the program
+MeasurementSystem.py This contains all the functions to handle the image and measure stuff
 
-MeasurementSystem/MeasurementSystem.py This contains all the functions to handle the image and measure stuff
-
-To run it, execute: python GUI.py
+To run it, execute: python main.py
